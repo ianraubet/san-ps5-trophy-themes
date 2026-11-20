@@ -4,6 +4,14 @@
 
 Temas de notificação de troféus no estilo PS5 para o [Steam Achievement Notifier](https://github.com/steamachievementnotifier/steamachievementnotifier) (SAN), para Windows e Linux.
 
+## Prévia
+
+| Bronze | Prata |
+| --- | --- |
+| ![Bronze](screenshots/bronze.png) | ![Prata](screenshots/silver.png) |
+| **Ouro** | **Platina** |
+| ![Ouro](screenshots/gold.png) | ![Platina](screenshots/platinum.png) |
+
 ## O que está incluído
 
 | Arquivo | Slot do Modo Troféu do SAN |

@@ -4,6 +4,14 @@
 
 PS5-style trophy notification themes for [Steam Achievement Notifier](https://github.com/steamachievementnotifier/steamachievementnotifier) (SAN), for Windows and Linux.
 
+## Preview
+
+| Bronze | Silver |
+| --- | --- |
+| ![Bronze](screenshots/bronze.png) | ![Silver](screenshots/silver.png) |
+| **Gold** | **Platinum** |
+| ![Gold](screenshots/gold.png) | ![Platinum](screenshots/platinum.png) |
+
 ## What's included
 
 | File | SAN Trophy Mode slot |
